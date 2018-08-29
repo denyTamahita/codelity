@@ -1,3 +1,5 @@
+import binarygap.Solution;
+
 /**
  * Created by user on 8/29/2018.
  */
